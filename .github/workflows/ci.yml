@@ -29,3 +29,6 @@ jobs:
 
       - name: Rodar testes
         run: npm test
+
+      - name: Rodar build
+        run: npm run build
